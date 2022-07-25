@@ -1,0 +1,17 @@
+.navbar {
+    text-align: right;
+    margin-right: 5%;
+    width: auto;
+}
+
+.navbar li {
+    font-size: 7vh;
+    display: inline-block;
+    padding: 9px;
+    text-decoration: none;
+
+}
+
+.nav-bar-link {
+    color: black;
+}
